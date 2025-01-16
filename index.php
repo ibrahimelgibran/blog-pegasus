@@ -15,7 +15,7 @@ require_once 'function/constant.php';
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <!-- Open Graph -->
+  <!-- Open Graph  -->
   <meta property="og:title" content="<?= getName(); ?> - Home" />
   <meta name="author" content="<?= getName(); ?>" />
   <meta property="og:locale" content="id" />
